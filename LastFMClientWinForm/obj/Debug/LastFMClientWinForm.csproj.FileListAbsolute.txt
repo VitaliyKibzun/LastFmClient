@@ -1,0 +1,9 @@
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFMClientWinForm\LastFMClientWinForm\bin\Debug\LastFMClientWinForm.exe.config
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFMClientWinForm\LastFMClientWinForm\bin\Debug\LastFMClientWinForm.exe
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFMClientWinForm\LastFMClientWinForm\bin\Debug\LastFMClientWinForm.pdb
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFMClientWinForm\LastFMClientWinForm\obj\Debug\LastFMClientWinForm.Form1.resources
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFMClientWinForm\LastFMClientWinForm\obj\Debug\LastFMClientWinForm.Properties.Resources.resources
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFMClientWinForm\LastFMClientWinForm\obj\Debug\LastFMClientWinForm.csproj.GenerateResource.Cache
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFMClientWinForm\LastFMClientWinForm\obj\Debug\LastFMClientWinForm.exe
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFMClientWinForm\LastFMClientWinForm\obj\Debug\LastFMClientWinForm.pdb
+C:\Users\vitalyki\Documents\Visual Studio 2012\Projects\LastFMClientWinForm\LastFMClientWinForm\obj\Debug\LastFMClientWinForm.csprojResolveAssemblyReference.cache
